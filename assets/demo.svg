@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">YouTube Web Fullscreen Demo</title>
+<desc id="desc">Comparison of a regular YouTube watch page with a web-fullscreen player, highlighting the custom player control button. Concept illustration, not an actual browser screenshot.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1221"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="vid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263c5e"/><stop offset=".52" stop-color="#101e37"/><stop offset="1" stop-color="#3a2457"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#252d3a"/><stop offset="1" stop-color="#151c29"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<circle cx="1085" cy="100" r="210" fill="#334f85" opacity=".11"/>
+<circle cx="160" cy="680" r="260" fill="#7e3d8e" opacity=".1"/>
+<text x="64" y="70" fill="#fff" font-size="34" font-weight="700" font-family="Arial, sans-serif">YouTube Web Fullscreen</text>
+<text x="65" y="103" fill="#9aacc7" font-size="17" font-family="Arial, sans-serif">Keep your browser chrome. Maximize the player.</text>
+<g filter="url(#shadow)">
+  <rect x="58" y="152" width="554" height="400" rx="14" fill="#0c101a" stroke="#344154"/>
+  <rect x="58" y="152" width="554" height="35" rx="14" fill="url(#glass)"/>
+  <rect x="58" y="177" width="554" height="10" fill="#182130"/>
+  <circle cx="82" cy="169" r="6" fill="#ff6258"/><circle cx="103" cy="169" r="6" fill="#ffc24e"/><circle cx="124" cy="169" r="6" fill="#45ca76"/>
+  <rect x="181" y="161" width="294" height="19" rx="7" fill="#0b111c"/>
+  <text x="197" y="175" fill="#79899e" font-size="12" font-family="Arial, sans-serif">youtube.com/watch?v=...</text>
+  <rect x="75" y="202" width="520" height="34" rx="4" fill="#121a27"/>
+  <rect x="90" y="214" width="24" height="13" rx="4" fill="#ff3040"/>
+  <path d="M100 217 L100 224 L107 220.5 Z" fill="#fff"/>
+  <rect x="135" y="215" width="154" height="8" rx="4" fill="#4f5a68"/>
+  <rect x="75" y="247" width="368" height="208" rx="4" fill="url(#vid)"/>
+  <circle cx="259" cy="344" r="44" fill="#fff" opacity=".13"/><path d="M247 321 L247 367 L284 344 Z" fill="#fff" opacity=".85"/>
+  <rect x="75" y="425" width="368" height="30" fill="#070b12" opacity=".82"/>
+  <rect x="95" y="446" width="210" height="3" rx="2" fill="#717b8d"/><rect x="95" y="446" width="87" height="3" rx="2" fill="#f23c4d"/>
+  <path d="M106 432 V441 M109 432 V441" stroke="white" stroke-width="2"/>
+  <rect x="365" y="432" width="23" height="17" rx="3" fill="none" stroke="#f5ca56" stroke-width="2"/>
+  <path d="M370 437 L375 437 L375 442 M383 437 L378 437 L378 442" fill="none" stroke="#f5ca56" stroke-width="1.6"/>
+  <rect x="398" y="431" width="24" height="18" rx="3" fill="none" stroke="#d4d9e2" stroke-width="1.7"/>
+  <circle cx="403" cy="438" r="17" fill="none" stroke="#f5ca56" stroke-width="2.3" stroke-dasharray="3 4"/>
+  <rect x="454" y="247" width="141" height="75" rx="4" fill="#2b3850"/>
+  <rect x="454" y="332" width="141" height="75" rx="4" fill="#252d41"/>
+  <rect x="75" y="466" width="325" height="11" rx="5" fill="#536074"/>
+  <rect x="75" y="487" width="247" height="8" rx="4" fill="#313e53"/>
+  <rect x="75" y="505" width="472" height="7" rx="4" fill="#273449"/>
+  <rect x="75" y="521" width="421" height="7" rx="4" fill="#273449"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="668" y="152" width="554" height="400" rx="14" fill="#070b13" stroke="#4c6080"/>
+  <rect x="668" y="152" width="554" height="35" rx="14" fill="url(#glass)"/>
+  <rect x="668" y="177" width="554" height="10" fill="#182130"/>
+  <circle cx="692" cy="169" r="6" fill="#ff6258"/><circle cx="713" cy="169" r="6" fill="#ffc24e"/><circle cx="734" cy="169" r="6" fill="#45ca76"/>
+  <rect x="791" y="161" width="294" height="19" rx="7" fill="#0b111c"/>
+  <text x="807" y="175" fill="#79899e" font-size="12" font-family="Arial, sans-serif">youtube.com/watch?v=...</text>
+  <rect x="670" y="188" width="550" height="362" fill="url(#vid)"/>
+  <ellipse cx="945" cy="341" rx="190" ry="92" fill="#8192c3" opacity=".065"/>
+  <circle cx="945" cy="363" r="57" fill="#fff" opacity=".12"/><path d="M929 333 L929 393 L975 363 Z" fill="#fff" opacity=".9"/>
+  <rect x="670" y="498" width="550" height="52" fill="#060a11" opacity=".85"/>
+  <rect x="694" y="531" width="500" height="3" rx="2" fill="#66758d"/><rect x="694" y="531" width="163" height="3" rx="2" fill="#f23c4d"/>
+  <path d="M709 505 V521 M715 505 V521" stroke="white" stroke-width="2.5"/>
+  <text x="735" y="518" fill="#fff" font-size="12" font-family="Arial, sans-serif">4:28 / 12:40</text>
+  <rect x="1101" y="503" width="29" height="22" rx="4" fill="#f6cb63" opacity=".2"/>
+  <path d="M1106 508h6v-4 M1126 508h-6v-4 M1106 520h6v5 M1126 520h-6v5" fill="none" stroke="#f7d26c" stroke-width="2"/>
+  <path d="M1140 505h8v8 M1182 505h-8v8 M1140 525h8v-8 M1182 525h-8v-8" fill="none" stroke="#e4e9f2" stroke-width="2"/>
+  <circle cx="1116" cy="514" r="25" fill="none" stroke="#f8c953" stroke-width="2.5"/>
+</g>
+<text x="77" y="591" fill="#f5f7fb" font-size="22" font-weight="700" font-family="Arial, sans-serif">Normal mode</text>
+<text x="77" y="618" fill="#96a8c3" font-size="15" font-family="Arial, sans-serif">Recommendations and page elements are visible</text>
+<text x="686" y="591" fill="#f5f7fb" font-size="22" font-weight="700" font-family="Arial, sans-serif">Web fullscreen</text>
+<text x="686" y="618" fill="#96a8c3" font-size="15" font-family="Arial, sans-serif">The video fills the webpage while browser tabs remain</text>
+<path d="M620 355 H650 M643 347 L651 355 L643 363" fill="none" stroke="#f8ca58" stroke-width="3" stroke-linecap="round"/>
+<rect x="64" y="658" width="1151" height="1" fill="#2d3b50"/>
+<text x="65" y="685" fill="#8494ad" font-size="13" font-family="Arial, sans-serif">Illustrative demo · not an actual browser screenshot</text>
+<text x="1014" y="685" fill="#f7ca5a" font-size="13" font-family="Arial, sans-serif">Alt + W  ·  Esc to exit</text>
+</svg>
